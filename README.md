@@ -10,15 +10,15 @@
 
 My name is Andrea Cachipuendo, a Software Engineering student at the National Polytechnic School in the city of Quito-Ecuador.
 
-My interests basically lie in the development of web pages using different programming languages; one of my aspirations is to keep up-to-date with regard to new tools and programming languages ​​that allow me to better my work and education at a professional level.
+My interests basically lie in the development of web pages using different programming languages; one of my aspirations is to keep up-to-date with regard to new tools and programming languages that allow me to better my work and education at a professional level.
 
-I am a lover of volly sports 🏐, above all I have interests in learning new languages ​​such as French, Italian and German, so to start the first language that I seek to master perfectly is English; I believe that learning new languages ​​opens up new job opportunities with which to stand out in a positive way. Without more to say, I hope that in this repository you can find projects that allow you to solve doubts and problems regarding the development of web pages.
+I am a lover of volly sports 🏐, above all I have interests in learning new languages such as French, Italian and German, so to start the first language that I seek to master perfectly is English; I believe that learning new languages opens up new job opportunities with which to stand out in a positive way. Without more to say, I hope that in this repository you can find projects that allow you to solve doubts and problems regarding the development of web pages.
         </p>
       </td>
       <td width="100">
-        <picture>
-          <img alt="user_womer" src="https://user-images.githubusercontent.com/49161433/234620436-f5287836-596a-4d1c-b782-1d94cc916acb.png" width="400" height="420" />
-        </picture>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/49161433/234620436-f5287836-596a-4d1c-b782-1d94cc916acb.png" alt="user_women" width="400" height="420"/> 
+        </a> 
       </td>
     </tr>
   </tbody>
@@ -60,7 +60,6 @@ I am a lover of volly sports 🏐, above all I have interests in learning new la
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 </p>
-
 
 
 <!--
