@@ -16,7 +16,7 @@ I am a lover of volly sports 🏐, above all I have interests in learning new la
         </p>
       </td>
       <td width="100">
-        <a href="" target="_blank" rel="noreferrer"> 
+        <a target="_blank" rel="noreferrer"> 
           <img src="https://user-images.githubusercontent.com/49161433/234620436-f5287836-596a-4d1c-b782-1d94cc916acb.png" alt="user_women" width="400" height="420"/> 
         </a> 
       </td>
