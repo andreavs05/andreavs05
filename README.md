@@ -12,7 +12,7 @@
       </td>
       <td width="100">
         <picture>
-          <img src="https://user-images.githubusercontent.com/49161433/234620436-f5287836-596a-4d1c-b782-1d94cc916acb.png" width="400" height="420" />
+          <img alt="user_womer" src="https://user-images.githubusercontent.com/49161433/234620436-f5287836-596a-4d1c-b782-1d94cc916acb.png" width="400" height="420" />
         </picture>
       </td>
     </tr>
@@ -22,16 +22,16 @@
 #### LENGUAJES DE PROGRAMACIÓN
 
 <picture>
-  <img src="https://www.jairogarciarincon.com/img/clases/1325.jpg" width="100px" height="100px" />
+  <img alt="logo_java" src="https://www.jairogarciarincon.com/img/clases/1325.jpg" width="100px" height="100px" />
 </picture>
 <picture>
-  <img src="https://www.atodocurso.com/sites/default/files/html.png" width="100px" height="100px" />
+  <img alt="logo_html" src="https://www.atodocurso.com/sites/default/files/html.png" width="100px" height="100px" />
 </picture>
 <picture>
-  <img src="https://www.jasoft.org/Blog/image.axd?picture=/2017/css3logo.png" width="100px" height="100px" />
+  <img alt="logo_css" src="https://www.jasoft.org/Blog/image.axd?picture=/2017/css3logo.png" width="100px" height="100px" />
 </picture>
 <picture>
-  <img src="https://webirix.com/wp-content/uploads/2014/05/elephpant.png" width="100px" height="100px" />
+  <img alt="logo_php" src="https://webirix.com/wp-content/uploads/2014/05/elephpant.png" width="100px" height="100px" />
 </picture>
 
 #### HERRAMIENTAS UILIZADAS
