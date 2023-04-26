@@ -1,4 +1,4 @@
-### Hi there 👋 Andrea Cachipuendo
+### Hi, 👋 I'm Andrea Cachipuendo [icon_computer] (https://cdn.icon-icons.com/icons2/112/PNG/512/network_computer_18860.png)
 En este repositorio podrás encontrar proyectos relacionados con el desarrollo de aplicaciones o sitios web y para ello en primer lugar me presento.
 
 Mi nombre es Andrea Cachipuendo, estudiante de Ingeniería en Software en la Escuela Politécnica Nacional en la cuidad de Quito-Ecuador.
